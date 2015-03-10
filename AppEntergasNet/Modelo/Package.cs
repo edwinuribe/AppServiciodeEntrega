@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace AppServicioEntregaDePaquetesAsp.Net.Modelos
+namespace AppEntergasNet.Modelos
 {
     public class Package
     {

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace AppServicioEntregaDePaquetesAsp.Net.Modelo
+namespace AppEntergasNet.Modelo
 {
     public class TwoDayPackage : Package
     {
